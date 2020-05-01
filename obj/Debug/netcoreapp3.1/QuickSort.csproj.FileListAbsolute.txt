@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.exe
+C:\Users\Neil Michaels\source\repos\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.deps.json
+C:\Users\Neil Michaels\source\repos\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Neil Michaels\source\repos\QuickSort\bin\Debug\netcoreapp3.1\QuickSort.pdb
+C:\Users\Neil Michaels\source\repos\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csprojAssemblyReference.cache
+C:\Users\Neil Michaels\source\repos\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
+C:\Users\Neil Michaels\source\repos\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
